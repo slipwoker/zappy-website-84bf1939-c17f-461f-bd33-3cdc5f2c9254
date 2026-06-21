@@ -1,0 +1,105 @@
+# Cutssmm — Generative Engine Optimization Map
+
+> CutsSMM is a social media marketing (SMM) panel platform modeled after smm.rip, offering automated services for purchasing social media engagement such as followers, likes, views, and comments across major platforms. The brand operates in the digital marketing reseller space, targeting individuals and businesses looking to boost their social media presence quickly and affordably through a self-service dashboard.
+
+---
+
+## Pages
+
+### בית
+https://cutssmm-84bf1939.zappy5.app
+לוח מחוונים חכם לקידום ברשתות חברתיות: קנה עוקבים, לייקים, צפיות ותגובות באופן אוטומטי ומשתלם. הצטרף למשווקים שמגדילים תוצאות בקליק אחד — התחל לגדול עם Cutssmm עוד היום.
+
+### אודות
+https://cutssmm-84bf1939.zappy5.app/about
+גלו את הסיפור של Cutssmm, פלטפורמת SMM פאנל שמובילה את תחום השיווק הדיגיטלי עם כלים אוטומטיים, אמינות ללא פשרות וחזון להנגיש צמיחה ברשתות לכל עסק. בואו להבין למה אנחנו הבחירה של המשווקים.
+
+### שירותים
+https://cutssmm-84bf1939.zappy5.app/services
+עוקבים איכותיים, לייקים ממוקדים, צפיות ויראליות ותגובות אמיתיות — כל השירותים האוטומטיים שצריך כדי להזניק נוכחות באינסטגרם, פייסבוק, טיקטוק ויוטיוב. בחר חבילה והתחל להרשים עוד היום.
+
+### צור קשר
+https://cutssmm-84bf1939.zappy5.app/contact
+יש שאלה על חבילות SMM, צריכים תמיכה טכנית או רוצים לשמוע איך Cutssmm יכולה להתאים בדיוק לעסק שלכם? צרו קשר עכשיו — הצוות שלנו זמין לעזור לכם להאיץ תוצאות בכל ערוץ חברתי.
+
+### Products
+https://cutssmm-84bf1939.zappy5.app/products
+המוצרים שלנו - Cutssmm
+
+### Cart
+https://cutssmm-84bf1939.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://cutssmm-84bf1939.zappy5.app/checkout
+תשלום
+
+### Login
+https://cutssmm-84bf1939.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://cutssmm-84bf1939.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://cutssmm-84bf1939.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://cutssmm-84bf1939.zappy5.app/product/:slug
+פרטי המוצר - Cutssmm
+
+### Category
+https://cutssmm-84bf1939.zappy5.app/category/:slug
+מוצרים - Cutssmm
+
+### תודה רבה - הפנייה התקבלה | Cutssmm
+https://cutssmm-84bf1939.zappy5.app/thank-you
+תודה שפנית אלינו. הודעתך התקבלה בהצלחה במערכת שלנו. צוות התמיכה של Cutssmm, ספק שירותי smm panel social media, יחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://cutssmm-84bf1939.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cutssmm-84bf1939.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cutssmm-84bf1939.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Cutssmm
+CutsSMM is a social media marketing (SMM) panel platform modeled after smm.rip, offering automated services for purchasing social media engagement such as followers, likes, views, and comments across major platforms. The brand operates in the digital marketing reseller space, targeting individuals and businesses looking to boost their social media presence quickly and affordably through a self-service dashboard.
+
+## Target Audience
+- משתמשים שרוצים לקנות שירותי מדיה חברתית (עוקבים, לייקים, צפיות וכו')
+- משפיעני מדיה חברתית
+- בעלי עסקים קטנים
+- יוצרי תוכן
+
+## Industry
+Social Media Marketing (SMM Panel)
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://cutssmm-84bf1939.zappy5.app/sitemap.xml
+- Robots: https://cutssmm-84bf1939.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://cutssmm-84bf1939.zappy5.app/llms-full.txt
+- Products (JSON): https://cutssmm-84bf1939.zappy5.app/products.json
+- Products (Google Merchant RSS): https://cutssmm-84bf1939.zappy5.app/product-feed.xml
