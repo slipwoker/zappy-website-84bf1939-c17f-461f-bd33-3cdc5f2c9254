@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://cutssmm-84bf1939.zappy5.app
+https://example.com
 לוח מחוונים חכם לקידום ברשתות חברתיות: קנה עוקבים, לייקים, צפיות ותגובות באופן אוטומטי ומשתלם. הצטרף למשווקים שמגדילים תוצאות בקליק אחד — התחל לגדול עם Cutssmm עוד היום.
 
 ### אודות
-https://cutssmm-84bf1939.zappy5.app/about
+https://example.com/about
 גלו את הסיפור של Cutssmm, פלטפורמת SMM פאנל שמובילה את תחום השיווק הדיגיטלי עם כלים אוטומטיים, אמינות ללא פשרות וחזון להנגיש צמיחה ברשתות לכל עסק. בואו להבין למה אנחנו הבחירה של המשווקים.
 
 ### שירותים
-https://cutssmm-84bf1939.zappy5.app/services
+https://example.com/services
 עוקבים איכותיים, לייקים ממוקדים, צפיות ויראליות ותגובות אמיתיות — כל השירותים האוטומטיים שצריך כדי להזניק נוכחות באינסטגרם, פייסבוק, טיקטוק ויוטיוב. בחר חבילה והתחל להרשים עוד היום.
 
 ### צור קשר
-https://cutssmm-84bf1939.zappy5.app/contact
+https://example.com/contact
 יש שאלה על חבילות SMM, צריכים תמיכה טכנית או רוצים לשמוע איך Cutssmm יכולה להתאים בדיוק לעסק שלכם? צרו קשר עכשיו — הצוות שלנו זמין לעזור לכם להאיץ תוצאות בכל ערוץ חברתי.
 
 ### Products
-https://cutssmm-84bf1939.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Cutssmm
 
 ### Cart
-https://cutssmm-84bf1939.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://cutssmm-84bf1939.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://cutssmm-84bf1939.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://cutssmm-84bf1939.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://cutssmm-84bf1939.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://cutssmm-84bf1939.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Cutssmm
 
 ### Category
-https://cutssmm-84bf1939.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Cutssmm
 
 ### תודה רבה - הפנייה התקבלה | Cutssmm
-https://cutssmm-84bf1939.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. הודעתך התקבלה בהצלחה במערכת שלנו. צוות התמיכה של Cutssmm, ספק שירותי smm panel social media, יחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://cutssmm-84bf1939.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://cutssmm-84bf1939.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://cutssmm-84bf1939.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Social Media Marketing (SMM Panel)
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://cutssmm-84bf1939.zappy5.app/sitemap.xml
-- Robots: https://cutssmm-84bf1939.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://cutssmm-84bf1939.zappy5.app/llms-full.txt
-- Products (JSON): https://cutssmm-84bf1939.zappy5.app/products.json
-- Products (Google Merchant RSS): https://cutssmm-84bf1939.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
